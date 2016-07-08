@@ -4,6 +4,10 @@ MATLAB application that allows the user to explore the pixel statistics in regio
 ![ROI Explorer Screenshot](ROIExplorer_Screenshot.jpg)
 
 # Usage
-Just run ROIExplorer.m at the command prompt:
+1. Run ROIExplorer.m at the command prompt:
 
     >> ROIExplorer
+
+2. Install the app
+
+    >> appinfo = matlab.apputil.install('ROIExplorer.mlappinstall')
