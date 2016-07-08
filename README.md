@@ -1,2 +1,4 @@
 # ROIExplorer
-Explore statistics of regions in a grayscale image
+MATLAB application that allows the user to explore the pixel statistics in regions of interest in a grayscale image
+
+![ROI Explorer Screenshot](ROIExplorer_Screenshot.jpg)
